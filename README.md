@@ -5,3 +5,5 @@
 4. Connect Using SSH Keys.
 5. Configure ~/.ssh/config for Easier Access.
 6. Now connect the server with both the generated keys
+
+7. https://roadmap.sh/projects/ssh-remote-server-setup
